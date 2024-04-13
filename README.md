@@ -34,7 +34,8 @@ If you have any questions about the repo, open an issue or contact [mynameisandr
 ## Screenshot
 ![alt text](image.png)
 ![alt text](image-1.png)
-
+![alt text](image-2.png)
+![alt text](image-3.png)
 ## Video link
 
 
