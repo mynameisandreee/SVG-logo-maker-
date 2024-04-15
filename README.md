@@ -13,6 +13,9 @@ This project uses inquirer to ask  the user some input to create the logo for ex
 * [Questions](#questions) 
 
 * [Screenshot](#screenshot) 
+
+* [Video Link](#video) 
+
  
 
 
@@ -36,7 +39,7 @@ If you have any questions about the repo, open an issue or contact [mynameisandr
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
-## Video link
+## Video
 
 
 
