@@ -40,6 +40,7 @@ If you have any questions about the repo, open an issue or contact [mynameisandr
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ## Video
+https://drive.google.com/file/d/1uXsxzq5_t5W9qtT7BlYAub_d-wx2lI4A/view?usp=drive_link
 
 
 
